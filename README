@@ -1,4 +1,6 @@
-this is a ipynb demo for detecting glove defects.
+![alt text](https://github.com/malcolmchanhaoxian/Glove-Defect-Detection_Yolov5/blob/main/images/images/glove%206.jpg?raw=true)
+
+this is a ipynb demo for detecting glove defects using opoenvino
 repo is provided by Allen (@allenwsh)
 
 deploy the .ipynb script on Google colab and run.
